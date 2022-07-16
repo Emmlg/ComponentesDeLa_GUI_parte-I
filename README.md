@@ -1,5 +1,6 @@
 # Graficacion_Java-swing
 
+# ¿Qué son los componentes de la GUI?                         
 
 
 
