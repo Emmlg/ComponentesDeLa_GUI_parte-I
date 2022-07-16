@@ -1,5 +1,35 @@
 # Graficacion_Java-swing
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **.pequeña historia de la graficación**                             
 durante Java 1.0 se puede notar que la clase que nos ayudaba a crear diseños graficos era AWT(anstract windows toolkit).              
 sin embargo habia un error que al desarollar nuestro código y ejecutarlo en diferentes sistemas operativos                                                  
